@@ -21,7 +21,7 @@ No build steps or dependencies needed.
 
 ## Live site
 
-[rebeca-moreno-rodriguez.github.io/portfolio](https://rebeca-moreno-rodriguez.github.io/portfolio)
+[rebeca-moreno-rodriguez.github.io/portfolio](https://rebmoreno.github.io/portfolio/)
 
 ## Contact
 
